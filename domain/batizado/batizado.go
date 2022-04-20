@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/eminetto/curso-go/domain"
+	"github.com/renanperrudgarcia/curso-go/domain"
 )
 
 type Batizado struct {
